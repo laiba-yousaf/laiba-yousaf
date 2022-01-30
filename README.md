@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**laiba-yousaf/laiba-yousaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <body>
   <div align="center">
     <h1> Hi there, I'm laiba yousaf👋<a href="#"></h1>
