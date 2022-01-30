@@ -15,6 +15,7 @@
 <br>
 <h2 align="center"> Contribution Graph: </h2>
 [![laiba's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laiba-yousaf&theme=xcode)](https://github.com/laiba-yousaf)
+    
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
 <p align="center">
   <a href="https://github.com/laiba-yousaf"><span>
