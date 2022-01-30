@@ -9,11 +9,12 @@
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="https://leetcode.com/laiba_yousaf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="laibayousaf" height="30" width="40" /></a>
-<a href="https://coderbyte.com/profile/laiba1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="laibayousaf" height="30" width="40" /></a>
+<a href="https://leetcode.com/laiba_yousaf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="laiba-yousaf" height="30" width="40" /></a>
+<a href="https://coderbyte.com/profile/laiba1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="laiba-yousaf" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center"> Contribution Graph: </h2>
+
 [![laiba's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laiba-yousaf&theme=xcode)](https://github.com/laiba-yousaf)
 
 <h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
