@@ -9,8 +9,8 @@
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center">
-<a href="https://leetcode.com/explore/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="laibayousaf" height="30" width="40" /></a>
-<a href="https://coderbyte.com/challenges?utm_campaign=NewHomepage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="laibayousaf" height="30" width="40" /></a>
+<a href="https://leetcode.com/laiba_yousaf/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="laibayousaf" height="30" width="40" /></a>
+<a href="https://coderbyte.com/profile/laiba1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="laibayousaf" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center"> Contribution Graph: </h2>
