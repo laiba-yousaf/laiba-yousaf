@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Laiba Yousaf👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/laiba-yousaf"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Expert+in+programming+language;C++;Assembly+language;C;Graphics+designer;NLP+Engineer&center=true&width=500&height=50"></a>
+<a href="https://github.com/laiba-yousaf"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Expert+in+programming+language;Graphics+designer;&center=true&width=500&height=50"></a>
 	
  
  ## Bootcamp alert
