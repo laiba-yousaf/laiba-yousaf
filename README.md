@@ -7,7 +7,7 @@
 	
  
  ## Coding certificate
-- [MLSA Job Hunting Bootcamp](https://github.com/laiba-yousaf/laiba-yousaf) will started soon.
+- I join [Competative series of programming](https://github.com/laiba-yousaf/laiba-yousaf) .
 <img align="right" alt="" src="coding certificate.jfif" width="470" />
 	
 ## My Python Development Course 
