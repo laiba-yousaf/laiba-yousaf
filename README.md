@@ -8,7 +8,7 @@
  
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/laiba-yousaf/laiba-yousaf) will started soon.
-<img align="center" alt="" src="coding certificate.jfif" width="400" />
+<img align="left" alt="" src="coding certificate.jfif" width="400" />
 	
 ## My Python Development Course 
 - [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
