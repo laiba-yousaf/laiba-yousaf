@@ -14,7 +14,8 @@
 ### I'm a Computer Engineer student in UET!
 - 🔭 I'm a self motivated student and try to learn new skills .
 - 🌱 I do internship in DATA SCRAPPING TWITTER .
-- 👯 I’m looking to collaborate with other content creators and developers.
+- 👯 I’m looking to collaborate with other content creators and 
+     developers.
 - 📢 Love to teach and inspire students.
 - 🥅 I have knowlege about programming languages and know work graphics.
 - 💎 If you are a Tech boy/girl let's get connected  
