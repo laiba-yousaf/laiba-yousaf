@@ -84,7 +84,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/laiba-yousaf-muhammad-yousaf-058667236/"><img src="https://img.shields.io/badge/-Laiba%20Yousaf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:laibayousaf914@gmail.com"><img src="https://img.shields.io/badge/-laibayousaf@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/laiba_yousaf/"><img src="https://img.shields.io/badge/-/laibayousaf-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/laiba_yousaf/"><img src="https://img.shields.io/badge/-/Laiba yousaf-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>
