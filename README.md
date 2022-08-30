@@ -4,7 +4,7 @@
   </div>
 <p align="center">
 <a href="https://github.com/laiba-yousaf"><img src="https://readme-typing-svg.herokuapp.com?lines=
-	Computer+Engineer;Expert+in+C+++;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
+	Computer+Engineer;Expert+in+C++;Data+Scientist;NLP+Engineer&center=true&width=500&height=50"></a>
 	
  ## Bootcamp alert
 - [MLSA Job Hunting Bootcamp](https://github.com/saadfareed/MLSA-Job-Hunting-bootcamp) will started soon.
