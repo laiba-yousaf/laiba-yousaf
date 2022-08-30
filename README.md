@@ -6,12 +6,10 @@
 <a href="https://github.com/laiba-yousaf"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Expert+in+programming+language;Graphics+designer;&center=true&width=500&height=50"></a>
 	
  
- ## Coding certificate
-- I join [Competative series of programming](https://github.com/laiba-yousaf/laiba-yousaf) .
+ ## Coding Certificate
+- I join [Competative programming programming series](https://github.com/laiba-yousaf/laiba-yousaf) .
 <img align="right" alt="" src="coding certificate.jfif" width="470" />
 	
-## My Python Development Course 
-- [Python Backend Show with Saad Fareed](https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw)
 
 ### I'm a Python Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend Engineer @Turingcom.
