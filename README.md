@@ -11,12 +11,12 @@
 <img align="right" alt="" src="coding certificate.jfif" width="470" />
 	
 
-### I'm a Python Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend Engineer @Turingcom.
-- 🌱 I’m currently expanding my knowledge in DevOps.
+### I'm a Computer Engineer student in UET!
+- 🔭 I'm a self motivated student and try to learn new skills .
+- 🌱 I do internship in DATA SCRAPPING TWITTER .
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 500 students.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 📢 Love to teach and inspire students.
+- 🥅 I have knowlege about programming languages and know work graphics.
 - 💎 If you are a Tech boy/girl let's get connected  
  
 <h2>Tech Stack</h2>
