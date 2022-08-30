@@ -7,7 +7,7 @@
 	
  
  ## Coding Certificate
-- I join [Competative programming programming series](https://github.com/laiba-yousaf/laiba-yousaf) .
+- I join [Competative Programming Series](https://github.com/laiba-yousaf/laiba-yousaf) .
 <img align="right" alt="" src="coding certificate.jfif" width="470" />
 	
 
